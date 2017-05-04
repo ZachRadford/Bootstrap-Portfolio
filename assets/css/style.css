@@ -1,0 +1,185 @@
+
+.name {
+
+	background-color: #4aaaa5;
+	padding: 15px;
+	color: white;
+	text-align: center;
+
+}
+
+
+
+
+.navbar-nav li a {
+	color: #777777;
+	text-decoration: none;
+	border: 0;
+	border-right: 1px;
+	border-style: solid;
+	border-color: #dddddd;
+	padding: 0px 15px;
+	margin: 15px 0px;
+	display: inline-block;
+}
+
+.navbar-nav li a:last-of-type {
+	border: 0;
+}
+
+.navbar-nav li a:visited {
+	color: #777777;
+	text-decoration: none;
+}
+
+.navbar-nav li a:hover {
+	color: #daff22;
+	text-decoration: dotted;
+}
+
+.grey-text {
+	color: #6d6d6d;
+}
+
+footer {
+	background-color: #666666;
+	padding: 10px;
+	text-align: center;
+	color: black;
+	border-top: 10px;
+	border-top-color: #4aaaa5;
+	border-top-style: solid;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.sidebar-wrapper {
+	background-color: #ffffff;
+}
+
+.content-wrapper {
+	background-color: #ffffff;
+	width: 650px;
+}
+
+body {
+	background: url(../images/wallpaper1.jpg);
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 25px;
+}
+
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float: left;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #ffffff;
+	border-bottom: 5px;
+	border-bottom-color: #cccccc;
+	border-bottom-style: solid;
+}
+
+.padding15 {
+	padding: 10px;
+}
+
+.rightmarginsomethingelse {
+	margin-right: 115px;
+}
+
+.pushdown {
+	margin-top: 15px;
+}
+
+.content-inner {
+	padding: 15px;
+	background-color: #fff;
+	margin-bottom: 15px;
+}
+
+.sidebarimg {
+	text-align: center;
+}
+
+.sidebarimg img{
+	margin-left: 20px;
+	height: auto;
+	width: auto;
+	max-width: 50px;
+	max-height: 50px;
+	text-align: center;
+}
+
+input {
+	width: 100%;
+}
+
+.message {
+	height: 100px;
+}
+
+
+
+.portfolioimg img {
+	height: 100%;
+	width: 100%;
+	margin-bottom: 35px;
+}
+
+
+.stupidbutton {
+	background-color: #4aaaa5;
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	bottom: 248px;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.stupidbutton a {
+	color: #fff;
+	font-size: 22px;
+}
+
+
+
+h1, h2 {
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	color: #4aaaa5;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: #777777;
+}
+
+.navbar-header {
+	text-align: center;
+}
+
+.container {
+	margin-bottom: 50px;
+}
+
+ .container-fluid {
+	max-width: 980px;
+
+}
+
